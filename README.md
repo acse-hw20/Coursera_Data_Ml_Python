@@ -1,4 +1,4 @@
-# python-for-ml
+# python-for-data
 
 This is for Coursera Notes and Code
 
