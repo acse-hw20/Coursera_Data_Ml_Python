@@ -5,7 +5,7 @@ This is for Coursera Notes and Code
 ## Applied-Data-Science-Specialization
 Coursera
 
-Python for DS: https://e-4337aa6638.cognitiveclass.ai/lab/tree/labs/Python%20start
+Python for DS(https://e-4337aa6638.cognitiveclass.ai/lab/tree/labs/Python%20start)
 
 Python for AI: https://e-4337aa6638.cognitiveclass.ai/lab/tree/labs/Python%20for%20AI
 
@@ -23,3 +23,6 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple some-package
 pip下载升为默认全局:
 pip install pip -U
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+
+
+[TensorFlow（密码b9nx）](https://pan.iflytek.com:443/link/275E5B46185C982D4AF5AC295E1651B6)
