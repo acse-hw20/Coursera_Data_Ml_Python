@@ -2,7 +2,7 @@
 
 This is for Coursera Notes and Code
 
-# Applied-Data-Science-Specialization
+## Applied-Data-Science-Specialization
 Coursera
 
 Python for DS: https://e-4337aa6638.cognitiveclass.ai/lab/tree/labs/Python%20start
